@@ -9,13 +9,12 @@ I am a passionate full stack devloper, working on thrilling and usefull applicat
 - 👯 I would love to dive deeper into areas I have just started and acomplish interesting projects there[dapps].
 
 
-<h3 marginTop="10"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/baqir-nekfar-02a1b91b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedInstyle=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/baqirnekfar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Baqirnefkar__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:baqirnekfarmaqsudi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baqirnekfarmaqsudi@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+&nbsp; <a href="https://twitter.com/BNekfar" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/baqirnekfar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/baqir-nekfar-02a1b91b6/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:baqirnekfarmaqsudi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
 
