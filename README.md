@@ -13,9 +13,9 @@ I am a passionate full stack devloper, working on thrilling and usefull applicat
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/baqir-nekfar-02a1b91b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/baqirnekfar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:baqirnekfarmaqsudi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/baqir-nekfar-02a1b91b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Baqir-Nekfar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/baqirnekfar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Baqirnefkar__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:baqirnekfarmaqsudi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baqirnekfarmaqsudi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
