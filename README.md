@@ -7,10 +7,9 @@ I am a passionate full stack devloper, working on thrilling and usefull applicat
 - 🔭 Curently learning about block chain development, specialy in etheruem network.
 - 📚 have done alot of full stack projects with Nodejs, Nextjs, strapi , typescript ...
 - 👯 I would love to dive deeper into areas I have just started and acomplish interesting projects there[dapps].
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 marginTop="10"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
