@@ -5,7 +5,7 @@
 I am a passionate full stack devloper, working on thrilling and usefull applications experienced by tons of people every day.
 
 - 🔭 Curently learning about block chain development like NFTs and its MarketPlaces, specialy on etheruem network.
-- 📚 have done alot of full stack projects with Nodejs, Nextjs, strapi , typescript ...
+- 📚 I have done a lot of full stack projects with React, Nodejs, Nextjs, strapi , typescript ...
 - 👯 I would love to dive deeper into areas I have just started and acomplish interesting projects there[dapps].
 
 
