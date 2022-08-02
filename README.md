@@ -2,10 +2,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I am a passionate full stack devloper, working on thrilling and usefull applications experienced by tons of people every day.
+I am a passionate frontend devloper, working on thrilling and usefull applications experienced by tons of people every day.
 
 - 🔭 Curently learning about block chain development like NFTs and its MarketPlaces, specialy on etheruem network.
-- 📚 I have done a lot of full stack projects with React, Nodejs, Nextjs, strapi and typescript ...
+- 📚 I have done a lot of frontend/full stack projects with React, Nodejs, Nextjs, strapi and typescript ...
 - 👯 I would love to dive deeper into areas I have just started and acomplish interesting projects there[dapps].
 
 
