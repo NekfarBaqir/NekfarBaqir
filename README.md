@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
+<a href="https://app.daily.dev/baqirnekfar"><img src="https://api.daily.dev/devcards/a1f8476bd63449e4bca4f1d29e33b2fb.png?r=f0o" width="200" alt="Baqir Nekfar's Dev Card"/></a>
+<br>
 I am a  frontend Engineer, working on thrilling and usefull applications experienced by tons of people every day.
 
 - 📚 Curently working with Typescript, React, Nextjs, Expressjs tech stacks on amazing apps.
