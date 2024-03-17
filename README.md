@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://app.daily.dev/baqirnekfar"><img src="https://api.daily.dev/devcards/a1f8476bd63449e4bca4f1d29e33b2fb.png?r=f0o" width="200" alt="Baqir Nekfar's Dev Card"/></a>
+<a href="https://app.daily.dev/baqirnekfar"><img src="https://api.daily.dev/devcards/v2/RIzjUFiciQ3Y0pGYWhwQZ.png?r=ln6" width="356" alt="Baqir Nekfar's Dev Card"/></a>
 <br>
 I am a  frontend Engineer, working on thrilling and usefull applications experienced by tons of people every day.
 
