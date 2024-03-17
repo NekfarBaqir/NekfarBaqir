@@ -5,8 +5,8 @@
 <br>
 I am a  frontend Engineer, working on thrilling and usefull applications experienced by tons of people every day.
 
-- 📚 Curently working with Typescript, React, Nextjs, Expressjs tech stacks on amazing apps.
-- 👯 Learning and dive deeper into Typescript and Frontend testing (React testing, jest & cypres).
+- 📚 Curently working with Typescript, React, Nextjs, TailwindCSS & Web3 Technologies on amazing apps.
+- 👯 Learning and dive deeper into Typescript and Frontend testing (React testing, jest & cypres) & AI Powered Engineering.
 
 
 <h3> 🤝🏻 Connect with Me </h3>
